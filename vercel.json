@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://github.com/Her-AI-AU/NewHomePage"
+      "destination": "https://her-ai-au.github.io/NewHomePage/"
     }
   ]
 }
