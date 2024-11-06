@@ -1,8 +1,10 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://her-ai-au.github.io/NewHomePage/"
+      "destination": "https://her-ai-au.github.io/NewHomePage/",
+      "permanent": false
     }
   ]
 }
+
